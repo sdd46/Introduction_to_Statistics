@@ -1,5 +1,5 @@
 ---
-title: "RStudio Layout, navigating the IDE, project setup"
+title: "Introduction to Statistics"
 teaching: 5
 exercises: 0
 questions:
